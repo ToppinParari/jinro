@@ -2,9 +2,12 @@ body {
   font-family:"Avenir Next"
 }
 
-.header {
+.header-logo{
   background-color: red;
   height:90px;
+  width: 1200px;
+  float:left;
+  padding:20px 0px;
 }
 
 .main {
@@ -13,8 +16,29 @@ body {
 }
 
 h1{
-  font-size: 24px;
+  font-size: 48px;
 }
+p {
+  font-size: 24px;
+  padding-bottom: : 25px;
+}
+ul {
+list-style: none;
+}
+
+.index li {
+  float: left;
+  padding:20px 50px;
+}
+
+.header-addition {
+  float: left;
+}
+
+.index {
+  float: left;
+}
+
 .footer{
   height:250px;
   background-color: black;
