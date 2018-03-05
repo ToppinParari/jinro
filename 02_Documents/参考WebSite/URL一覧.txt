@@ -1,0 +1,11 @@
+・Progate | プログラミングの入門なら基礎から学べるProgate[プロゲート]
+http://prog-8.com/mypage
+
+・Git の基礎勉強 ?Git によるバージョン管理を使う?
+http://tracpath.com/bootcamp/learning_git_firststep.html
+
+・SourceTreeとGithubでGitの練習環境をつくる
+https://qiita.com/naoki85/items/4f44601f1365c18035f4
+
+・Human Resource Machine
+http://store.steampowered.com/app/375820/Human_Resource_Machine/?l=japanese
